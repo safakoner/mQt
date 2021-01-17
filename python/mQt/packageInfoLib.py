@@ -39,13 +39,13 @@
 NAME                = 'mQt'
 
 ## [ str ] - Version of the package.
-VERSION             = '1.0.0'
+VERSION             = '1.1.0'
 
 ## [ str ] - Description about the package.
 DESCRIPTION         = 'Qt libraries.'
 
 ## [ list of str ] - Keywords to find this package.
-KEYWORDS            = ['qt', 'core', 'widgets', 'gui']
+KEYWORDS            = ['qt', 'core', 'widgets', 'gui', 'palette']
 
 ## [ list of str ] - Platforms which this package meant to be used on.
 PLATFORMS           = ['Linux', 'Darwin', 'Windows']
